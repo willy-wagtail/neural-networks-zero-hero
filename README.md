@@ -1,3 +1,8 @@
+# Notes
+
+Following along to this Andrej Karpathy course on neural networks:
+https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
+
 # GitHub Codespaces ♥️ Jupyter Notebooks
 
 Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
